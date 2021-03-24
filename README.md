@@ -45,7 +45,8 @@ Here's a walkthrough of implemented user stories:
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   I have received some errors so I used https://stackoverflow.com/questions/52909830/typeerror-cannot-read-property-classlist-of-null
+   I have received some errors so I used 
+   https://stackoverflow.com/questions/52909830/typeerror-cannot-read-property-classlist-of-null
    https://www.w3schools.com/js/js_events.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it?
